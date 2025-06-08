@@ -3,8 +3,7 @@
 - 🌱 I’m currently exploring different areas in Comp. Sci. where i can find this opportunity.
 - 💞️ I’m looking to collaborate on creating an extremely addictive android game.
 - 📫 You can reach me @ jategaonkarsaurabh58@gmail.com or on Instagram @saurabh_j1996
-
-Here's my card:
+- Here's my card:
   ![image](https://github.com/user-attachments/assets/50476311-31ec-4b10-98ad-8bd74cd0dfe8)
 
 
